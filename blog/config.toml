@@ -1,0 +1,47 @@
+baseURL = "https://creeware.github.io/"
+languageCode = "en-us"
+title = "Creeware"
+theme = "hello-friend-ng"
+
+[params]
+  dateform        = "Jan 2, 2019"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2019-01-02"
+  dateformNumTime = "2019-01-02 15:04 -0700"
+
+  # Metadata mostly used in document's head
+  description = "GitLabs, a Course project at KTH"
+  keywords = "homepage, blog, science, informatics, git, github, development, programming"
+  images = [""]
+
+  # Directory name of your blog content (default is `content/posts`)
+  contentTypeName = "posts"
+  # Default theme "light" or "dark"
+  defaultTheme = "dark"
+
+[languages]
+  [languages.en]
+    title = "GitLabs"
+    subtitle = "The perfect education solution for Git"
+    keywords = ""
+    copyright = "Creeware"
+    readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+      logoText = "$ cd /home/"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+# And you can even create generic menu
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/about"
+  [[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "/posts"

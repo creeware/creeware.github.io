@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on GitLabs</title>
+        <link>https://creeware.github.io/posts/</link>
+        <description>Recent content in Posts on GitLabs</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>Creeware</copyright>
+        <lastBuildDate>Fri, 26 Apr 2019 14:47:26 +0200</lastBuildDate>
+        <atom:link href="https://creeware.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Sprint 1</title>
+            <link>https://creeware.github.io/posts/sprint-1/</link>
+            <pubDate>Fri, 26 Apr 2019 14:47:26 +0200</pubDate>
+            
+            <guid>https://creeware.github.io/posts/sprint-1/</guid>
+            <description> Sprint 1 Sprint Goal  Make a new repository through the API (Success)  Sprint Backlog  Model View Controller Running Terraform through Java Integrate Terraform Diff repositories Implement automated Email  Schedule Sprint Period: 23 - 29 April
+Daily Scrum Time: 08:30 in team room
+Sprint Demo: 29 April, 09:45 in Sal C
+Assigned Team  Murat Eksi E-Joon Ko Kyle Sinclair Kok Siang Ng Jonatan Holmbäck Reshad Sarwar Justin Arieltan Pontus Asp  </description>
+            <content type="html"><![CDATA[
+
+<h3 id="sprint-1"><strong>Sprint 1</strong></h3>
+
+<h4 id="sprint-goal">Sprint Goal</h4>
+
+<ul>
+<li>Make a new repository through the API (Success)</li>
+</ul>
+
+<h4 id="sprint-backlog">Sprint Backlog</h4>
+
+<ul>
+<li>Model View Controller</li>
+<li>Running Terraform through Java</li>
+<li>Integrate Terraform</li>
+<li>Diff repositories</li>
+<li>Implement automated Email</li>
+</ul>
+
+<h4 id="schedule">Schedule</h4>
+
+<p><strong>Sprint Period:</strong> 23 - 29 April<br />
+<strong>Daily Scrum Time:</strong> 08:30 in team room<br />
+<strong>Sprint Demo:</strong> 29 April, 09:45 in Sal C</p>
+
+<h4 id="assigned-team">Assigned Team</h4>
+
+<ul>
+<li>Murat Eksi</li>
+<li>E-Joon Ko</li>
+<li>Kyle Sinclair</li>
+<li>Kok Siang Ng</li>
+<li>Jonatan Holmbäck</li>
+<li>Reshad Sarwar</li>
+<li>Justin Arieltan</li>
+<li>Pontus Asp</li>
+</ul>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GitLabs</title>
+    <link>https://creeware.github.io/</link>
+    <description>Recent content on GitLabs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Creeware</copyright>
+    <lastBuildDate>Fri, 26 Apr 2019 14:47:26 +0200</lastBuildDate>
+    
+	<atom:link href="https://creeware.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sprint 1</title>
+      <link>https://creeware.github.io/posts/sprint-1/</link>
+      <pubDate>Fri, 26 Apr 2019 14:47:26 +0200</pubDate>
+      
+      <guid>https://creeware.github.io/posts/sprint-1/</guid>
+      <description> Sprint 1 Sprint Goal  Make a new repository through the API (Success)  Sprint Backlog  Model View Controller Running Terraform through Java Integrate Terraform Diff repositories Implement automated Email  Schedule Sprint Period: 23 - 29 April
+Daily Scrum Time: 08:30 in team room
+Sprint Demo: 29 April, 09:45 in Sal C
+Assigned Team  Murat Eksi E-Joon Ko Kyle Sinclair Kok Siang Ng Jonatan Holmbäck Reshad Sarwar Justin Arieltan Pontus Asp  </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://creeware.github.io/about/</link>
+      <pubDate>Fri, 26 Apr 2019 14:44:45 +0200</pubDate>
+      
+      <guid>https://creeware.github.io/about/</guid>
+      <description>Team Powerline Creeware Team Powerline&amp;rsquo;s Creeware allows the automated testing of git management skills. It uses scheduled challenges and instantaneous feedback to provide a well paced learning schedule that covers the most basic uses of git to the most advanced.
+Lecturers can establish a schedule, provide challenges and invite many students to participate in the course without being obligated to provide feedback to every student&amp;rsquo;s attempts.
+Students gain genuine examples of the kind of manipulations and management git repositories require.</description>
+    </item>
+    
+  </channel>
+</rss>
