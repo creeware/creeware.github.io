@@ -1,0 +1,16 @@
+version: '3.5'
+
+services:
+  blog:
+    build: 
+        context: .
+        dockerfile: Dockerfile
+    volumes:
+      - '.:/blog-workspace'
+      - '.:/blog-workspace/node_modules'
+    ports:
+      - 8080:8080
+    environment:
+      - NODE_ENV=development
+    entrypoint: ["yarn", "build"]
+
