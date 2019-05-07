@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Untagged on GitLabs</title>
+    <link>https://creeware.github.io/tags/untagged/</link>
+    <description>Recent content in Untagged on GitLabs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Creeware</copyright>
+    <lastBuildDate>Tue, 07 May 2019 07:45:17 +0200</lastBuildDate>
+    
+	<atom:link href="https://creeware.github.io/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sprint 2</title>
+      <link>https://creeware.github.io/posts/sprint-2/</link>
+      <pubDate>Tue, 07 May 2019 07:45:17 +0200</pubDate>
+      
+      <guid>https://creeware.github.io/posts/sprint-2/</guid>
+      <description> Sprint 2 Sprint Goal  Provide basic interface Schedule challenges  Sprint Backlog  Schedule Challenges with Cronjob Implement Basic Interface Canvas Integration Canvas Frontend Role Management Push Notifcation Additional Features  Reset Reposoitories Challenge Types   Schedule Sprint Period: 02 - 09 May
+Daily Scrum Time: 08:30 in team room
+Sprint Demo: 09 April, 08:00 - 10:00
+Assigned Team  Murat Eksi E-Joon Ko Kyle Sinclair Kok Siang Ng Jonatan Holmbäck Reshad Sarwar Justin Arieltan Pontus Asp  </description>
+    </item>
+    
+  </channel>
+</rss>

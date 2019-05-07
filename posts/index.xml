@@ -7,8 +7,65 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>Creeware</copyright>
-        <lastBuildDate>Fri, 26 Apr 2019 14:47:26 +0200</lastBuildDate>
+        <lastBuildDate>Tue, 07 May 2019 07:45:17 +0200</lastBuildDate>
         <atom:link href="https://creeware.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Sprint 2</title>
+            <link>https://creeware.github.io/posts/sprint-2/</link>
+            <pubDate>Tue, 07 May 2019 07:45:17 +0200</pubDate>
+            
+            <guid>https://creeware.github.io/posts/sprint-2/</guid>
+            <description> Sprint Goal  Provide basic interface Schedule challenges  Sprint Backlog  Schedule Challenges with Cronjob Implement Basic Interface Canvas Integration Canvas Frontend Role Management Push Notifcation Additional Features  Reset Reposoitories Challenge Types   Schedule Sprint Period: 02 - 09 May
+Daily Scrum Time: 08:30 in team room
+Sprint Demo: 09 April, 08:00 - 10:00
+Assigned Team  Murat Eksi E-Joon Ko Kyle Sinclair Kok Siang Ng Jonatan Holmbäck Reshad Sarwar Justin Arieltan Pontus Asp  </description>
+            <content type="html"><![CDATA[
+
+<h3 id="sprint-goal"><strong>Sprint Goal</strong></h3>
+
+<ul>
+<li>Provide basic interface</li>
+<li>Schedule challenges</li>
+</ul>
+
+<h3 id="sprint-backlog"><strong>Sprint Backlog</strong></h3>
+
+<ul>
+<li>Schedule Challenges with Cronjob</li>
+<li>Implement Basic Interface</li>
+<li>Canvas Integration</li>
+<li>Canvas Frontend</li>
+<li>Role Management</li>
+<li>Push Notifcation</li>
+<li>Additional Features
+
+<ul>
+<li>Reset Reposoitories</li>
+<li>Challenge Types</li>
+</ul></li>
+</ul>
+
+<h3 id="schedule"><strong>Schedule</strong></h3>
+
+<p><strong>Sprint Period:</strong> 02 - 09 May<br />
+<strong>Daily Scrum Time:</strong> 08:30 in team room<br />
+<strong>Sprint Demo:</strong> 09 April, 08:00 - 10:00</p>
+
+<h3 id="assigned-team"><strong>Assigned Team</strong></h3>
+
+<ul>
+<li>Murat Eksi</li>
+<li>E-Joon Ko</li>
+<li>Kyle Sinclair</li>
+<li>Kok Siang Ng</li>
+<li>Jonatan Holmbäck</li>
+<li>Reshad Sarwar</li>
+<li>Justin Arieltan</li>
+<li>Pontus Asp</li>
+</ul>
+]]></content>
+        </item>
         
         <item>
             <title>Sprint 1</title>
@@ -16,13 +73,11 @@
             <pubDate>Fri, 26 Apr 2019 14:47:26 +0200</pubDate>
             
             <guid>https://creeware.github.io/posts/sprint-1/</guid>
-            <description> Sprint 1 Sprint Goal  Make a new repository through the API (Success)  Sprint Backlog  Model View Controller Running Terraform through Java Integrate Terraform Diff repositories Implement automated Email  Schedule Sprint Period: 23 - 29 April
+            <description> Sprint Goal  Make a new repository through the API (Success)  Sprint Backlog  Model View Controller Running Terraform through Java Integrate Terraform Diff repositories Implement automated Email  Schedule Sprint Period: 23 - 29 April
 Daily Scrum Time: 08:30 in team room
 Sprint Demo: 29 April, 09:45 in Sal C
 Assigned Team  Murat Eksi E-Joon Ko Kyle Sinclair Kok Siang Ng Jonatan Holmbäck Reshad Sarwar Justin Arieltan Pontus Asp  </description>
             <content type="html"><![CDATA[
-
-<h3 id="sprint-1"><strong>Sprint 1</strong></h3>
 
 <h4 id="sprint-goal">Sprint Goal</h4>
 
@@ -39,6 +94,8 @@ Assigned Team  Murat Eksi E-Joon Ko Kyle Sinclair Kok Siang Ng Jonatan Holmbäck
 <li>Diff repositories</li>
 <li>Implement automated Email</li>
 </ul>
+
+<p><img src="/sprint-1.jpg" alt="Sprint 1 Backlog" /></p>
 
 <h4 id="schedule">Schedule</h4>
 

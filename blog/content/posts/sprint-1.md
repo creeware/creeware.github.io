@@ -2,9 +2,10 @@
 title: "Sprint 1"
 date: 2019-04-26T14:47:26+02:00
 draft: false
+images: 
+tags:
+  - sprint
 ---
-
-### **Sprint 1**
 #### Sprint Goal
 - Make a new repository through the API (Success)
 
@@ -14,6 +15,8 @@ draft: false
 - Integrate Terraform
 - Diff repositories
 - Implement automated Email
+
+![Sprint 1 Backlog](/sprint-1.jpg)
 
 #### Schedule
 **Sprint Period:** 23 - 29 April  
