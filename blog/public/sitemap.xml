@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://creeware.github.io/posts/sprint-3/</loc>
+    <lastmod>2019-05-16T11:48:11+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://creeware.github.io/posts/sprint-2/</loc>
     <lastmod>2019-05-07T07:45:17+02:00</lastmod>
   </url>
@@ -24,13 +29,13 @@
   
   <url>
     <loc>https://creeware.github.io/</loc>
-    <lastmod>2019-05-07T07:45:17+02:00</lastmod>
+    <lastmod>2019-05-16T11:48:11+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://creeware.github.io/posts/</loc>
-    <lastmod>2019-05-07T07:45:17+02:00</lastmod>
+    <lastmod>2019-05-16T11:48:11+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -43,6 +48,12 @@
   <url>
     <loc>https://creeware.github.io/tags/</loc>
     <lastmod>2019-05-07T07:45:17+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://creeware.github.io/tags/untagged/</loc>
+    <lastmod>2019-05-16T11:48:11+02:00</lastmod>
     <priority>0</priority>
   </url>
   

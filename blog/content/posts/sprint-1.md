@@ -16,7 +16,7 @@ tags:
 - Diff repositories
 - Implement automated Email
 
-![Sprint 1 Backlog](/sprint-1.jpg)
+<!-- ![Sprint 1 Backlog](/sprint-1.jpg) -->
 
 #### Schedule
 **Sprint Period:** 23 - 29 April  

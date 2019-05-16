@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Creeware</copyright>
-    <lastBuildDate>Tue, 07 May 2019 07:45:17 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2019 11:48:11 +0200</lastBuildDate>
     
 	<atom:link href="https://creeware.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sprint 3</title>
+      <link>https://creeware.github.io/posts/sprint-3/</link>
+      <pubDate>Thu, 16 May 2019 11:48:11 +0200</pubDate>
+      
+      <guid>https://creeware.github.io/posts/sprint-3/</guid>
+      <description>Sprint Goal  Implement Canvas  Sprint Backlog As some of these backlog items were not completed previous week, they are still in the list attaining a higher priority.
+ Canvas Integration  Access Canvas token  Canvas Frontend Role Management Push Notifcation Additional Features  Reset Repositories Challenge Types  Access challenges sequentially as a student  Schedule Sprint Period: 10 - 16 May
+Daily Scrum Time: 08:30 in team room</description>
+    </item>
     
     <item>
       <title>Sprint 2</title>
