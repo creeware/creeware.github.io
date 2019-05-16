@@ -7,10 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Creeware</copyright>
-    <lastBuildDate>Thu, 16 May 2019 11:48:11 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2019 11:57:46 +0200</lastBuildDate>
     
 	<atom:link href="https://creeware.github.io/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sprint 4</title>
+      <link>https://creeware.github.io/posts/sprint-4/</link>
+      <pubDate>Thu, 16 May 2019 11:57:46 +0200</pubDate>
+      
+      <guid>https://creeware.github.io/posts/sprint-4/</guid>
+      <description>Sprint Goal  Implement user-specific views  Sprint Backlog As some of these backlog items were not completed previous week, they are still in the list attaining a higher priority.
+ KTH GitHub server integration Design UI polishing for frontend Refactor code Enhancing features Role Management Push Notifcation  Schedule Sprint Period: 16 - 22 May
+Daily Scrum Time: 08:30 in team room
+Sprint Demo: 22 May, 08:00 - 10:00</description>
+    </item>
     
     <item>
       <title>Sprint 3</title>
